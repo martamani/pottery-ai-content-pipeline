@@ -8,7 +8,7 @@ In these pages you can see some of the pieces I've been making. There aren't man
 
 ## Blue Teapot
 
-![Blue teapot](photos/blue-teapot.jpg)
+![Blue teapot](photos/blue-teapot.jpeg)
 
 **Material:** Buño clay, porcelain, Mayco FN-006 blue glaze
 **Size:** 24 cm high x 18 cm wide, 14 cm diameter
@@ -23,7 +23,7 @@ This teapot is inspired by Fauvist paintings, featuring bright colors and straig
 
 ## Blue Cunca (Bowl)
 
-![Blue cunca](photos/blue-cunca.jpg)
+![Blue cunca](photos/blue-cunca.jpeg)
 
 **Material:** Buño clay, porcelain, Mayco FN-006 blue glaze
 **Size:** 8 cm high x 13 cm wide, 13 cm diameter
@@ -40,7 +40,7 @@ The shape is based on the cunca, traditionally used for broth. The design came f
 
 ## White Cunquelo (Small Cup)
 
-![White cunquelo](photos/white-cunquelo.jpg)
+![White cunquelo](photos/white-cunquelo.jpeg)
 
 **Material:** Buño clay, Mayco FN-001 white glaze
 **Size:** 7 cm high x 9 cm wide, 9 cm diameter
@@ -55,7 +55,7 @@ This piece is based on the original shape of the cunquelo, a small, handleless c
 
 ## Blue Cup and Saucer Set
 
-![Blue cup and saucer](photos/blue-cup-saucer.jpg)
+![Blue cup and saucer](photos/blue-cup-saucer.jepg)
 
 **Material:** Buño clay, Mayco FN-006 blue glaze, Mayco FN-001 white glaze
 **Size:** cup 9 cm high *(details to complete)*
