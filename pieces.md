@@ -55,7 +55,7 @@ This piece is based on the original shape of the cunquelo, a small, handleless c
 
 ## Blue Cup and Saucer Set
 
-![Blue cup and saucer](photos/blue-cup-saucer.jpeg)
+![Blue cup and saucer](photos/blue-cup-saucer.jpeg) 
 
 **Material:** Buño clay, Mayco FN-006 blue glaze, Mayco FN-001 white glaze
 **Size:** cup 9 cm high *(details to complete)*
