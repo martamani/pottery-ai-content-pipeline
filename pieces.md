@@ -34,7 +34,7 @@ Heat resistant. Microwave and dishwasher safe, but do not place directly over an
 
 Made with the same glaze and technique as the teapot, except in this case, the piece was dipped in porcelain first, then the design was carved, and finally glazed blue.
 
-The shape is based on the cunca, traditionally used for broth. The design came from watching seaweed while diving. The top section is left unpainted to show the clay, but it is glazed, safe to use.
+The shape is based on the cunca, used for broth. The design came from watching seaweed while diving. The top section is left unpainted to show the clay, but it is glazed.
 
 ---
 
