@@ -4,7 +4,7 @@ title: The Pieces
 
 # The Pieces
 
-In the following pages, you can see some of the different pieces I've been making. There aren't many, but they are quite distinct.
+In these pages you can see some of my pieces. There aren't many, but they are quite distinct.
 
 ## Blue Teapot
 
