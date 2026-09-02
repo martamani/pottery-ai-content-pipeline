@@ -14,6 +14,6 @@ My mother's house used to have very large pottery pieces — large jars and pots
 
 My pieces are made following the tradition of Buño, another village in Galicia that has been dedicated to pottery for many, many centuries. I'm learning how to make traditional pieces — they have beautiful shapes — reworking them for today: Brighter colors, keeping what made them work in the first place. 
 
-The essence remains. The surface changes.
+The surface changes. The essence remains.
 
 [See the pieces →](pieces.md) · [See the process →](process.md) · [FAQ →](faq.md) · [See how this was built →](system-architecture.html)
