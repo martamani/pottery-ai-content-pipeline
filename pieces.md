@@ -4,7 +4,7 @@ title: The Pieces
 
 # The Pieces
 
-In the following pages, you can see some of the different pieces I've been making. There aren't many, but they are quite different from one another.
+In the following pages, you can see some of the different pieces I've been making. There aren't many, but they are quite distinct.
 
 ## Blue Teapot
 
@@ -17,7 +17,7 @@ In the following pages, you can see some of the different pieces I've been makin
 
 Heat resistant. Microwave and dishwasher safe, but do not place directly over an open flame.
 
-This teapot is inspired by Fauvist paintings, featuring bright colors and straight lines.
+This teapot is inspired by Fauvist paintings, with bright colors and straight lines.
 
 ---
 
@@ -34,7 +34,7 @@ Heat resistant. Microwave and dishwasher safe, but do not place directly over an
 
 Made with the same glaze and technique as the teapot, except in this case, the piece was dipped in porcelain first, then the design was carved, and finally glazed blue.
 
-The shape is based on the cunca, traditionally used for broth. The design came from watching seaweed float in the water like flowers. The top section is left unpainted to show the clay, but it is glazed and perfectly safe to use.
+The shape is based on the cunca, traditionally used for broth. The design came from watching seaweed while diving. The top section is left unpainted to show the clay, but it is glazed, safe to use.
 
 ---
 
@@ -49,7 +49,7 @@ The shape is based on the cunca, traditionally used for broth. The design came f
 
 Heat resistant. Microwave and dishwasher safe, but do not place directly over an open flame.
 
-This piece is based on the original shape of the cunquelo, a small, handleless cup used mainly for drinking wine. Its "ancient" shape feels a bit medieval.
+This piece is based on the original shape of the cunquelo, a small, handleless cup used for drinking wine. The shape feels a bit medieval.
 
 ---
 
