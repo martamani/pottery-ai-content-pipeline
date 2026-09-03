@@ -37,17 +37,23 @@ Tested whether the Brand Kit styleguide actually influences new output: asked Ai
 
 **Screenshot:** care-instructions.md and the AirOps generation.
 
-## 7. Contact form automation
+## 7. Contact form automation — design decision: working within platform limits
 Built a Tally contact form, wired to Make.com with conditional routing: messages over ~100 words route to a summarization/classification step (lead vs. not lead) before reaching a weekly email digest; shorter messages skip straight to the digest.
 
-The summarization/classification step is a published AirOps Workflow, triggered via AirOps's webhook API. The scenario is fully wired and tested — routing logic, JSON payload structure, webhook authentication all function correctly, and the workflow output (summary + lead classification) writes into a Google Sheet alongside every submission.
+The summarization/classification step is a published AirOps Workflow, triggered via AirOps's webhook API. The scenario is fully wired and tested — routing logic, JSON payload structure, webhook authentication all function correctly.
 
-**A note on a blocker along the way:** initial testing returned a hard error — `"source API is not available on the free trial or free tier"` — indicating a paid-tier restriction on external API calls. After regenerating the workspace API key (standard security hygiene, unrelated to the error) and retesting, the same webhook call succeeded. The exact cause of the initial block isn't fully certain, but the working, tested state is what's documented here.
+External calls to this webhook are blocked by an AirOps platform restriction: `"source API is not available on the free trial or free tier. Contact AirOps support for access."` This was confirmed on repeated tests, including after regenerating the workspace API key — the block is consistent, not a configuration issue.
 
-A separate weekly-digest scenario reads all rows from the Sheet and sends a summary email — closing the loop from form submission to a routed, triaged inbox digest.
+**Decision:** rather than pay for a tier upgrade to unlock one feature for a demo project, the plan is to redesign the flow using AirOps's native Grid feature (pulling rows from Google Sheets) instead of an external API call — same triage logic, no paid tier required. This part is designed but not yet built.
+
+What does work end to end today: Tally → Make.com routing by message length → Google Sheets (raw submissions saved) → a weekly digest scenario that reads the sheet and emails a summary. The AI triage step is the one piece still pending the free-tier workaround above.
 
 **Screenshots:**
-- Make.com scenario canvas (Tally → Router → long/short branches → AirOps webhook → Google Sheets)
-- Google Sheet showing a triaged row (AirOps-generated summary + lead/not lead classification)
+- Make.com scenario canvas (Tally → Router → long/short branches → HTTP module)
+- The Make.com error message: `"source API is not available on the free trial or free tier"`
+- Google Sheet showing raw submissions saved from both branches
 - Weekly digest scenario (Google Sheets → Gmail) and a sample digest email
 - Live "Get in touch" link on the site
+
+## Next steps (not yet built)
+- AirOps Grid connected to the Google Sheet, running the triage workflow per row (free alternative to the blocked webhook)
