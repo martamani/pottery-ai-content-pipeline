@@ -1,3 +1,6 @@
+## Known issues
+
+- Some images are not displaying after changes to the repository. Image paths are being updated.
 # Pottery AI Content Pipeline
 
 A case study of an AI content system I built on my pottery pieces: content generation, GEO/schema optimization, editorial QA, and
